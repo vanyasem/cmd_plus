@@ -1,5 +1,9 @@
 # cmd_plus changelog
 
+## 1.3.4
+
+- Removes DCM dependencies
+
 ## 1.3.3
 
 - Updates documentation
