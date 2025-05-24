@@ -19,7 +19,7 @@ dependencies:
 dev_dependencies:
   build_runner: ^2.3.3
   mankeli_analysis: ^1.1.2
-  mocktail: ^0.3.0
+  mocktail: ^1.0.0
 
 scripts:
   gen:
