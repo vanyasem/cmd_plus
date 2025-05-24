@@ -3,6 +3,7 @@
 ## 1.3.4
 
 - Removes DCM dependencies
+- Updates dependencies
 
 ## 1.3.3
 
